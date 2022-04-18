@@ -1,3 +1,7 @@
 body {
   margin: 0 auto;
 }
+header {
+  background-color: MistyRose;
+  height: 20%;
+}
