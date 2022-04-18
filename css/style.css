@@ -1,6 +1,7 @@
 body {
   margin: 0 auto;
   background-color: MistyRose;
+  color: blue;
 }
 header {
   height: 200px;
@@ -25,4 +26,5 @@ p {
 footer {
   height: 150px;
   text-align: center;
+  background-color: white;
 }
