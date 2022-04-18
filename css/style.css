@@ -1,13 +1,12 @@
 body {
   margin: 0 auto;
+  background-color: MistyRose;
 }
 header {
-  background-color: MistyRose;
-  height: 20%;
+  height: 200px;
 }
 main {
-  background-color: MistyRose;
-  height: 30%;
+  height: 500px;
 }
 nav {
   display: inline-block;
@@ -17,4 +16,7 @@ nav li {
 }
 h1 {
   font-size: 20px;
+}
+footer {
+  height: 150px;
 }
