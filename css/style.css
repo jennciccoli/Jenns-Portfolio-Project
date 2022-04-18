@@ -9,6 +9,12 @@ main {
   background-color: MistyRose;
   height: 30%;
 }
+nav {
+  display: inline-block;
+}
+nav li {
+  list-style: none;
+}
 h1 {
-  font-size:20px;
+  font-size: 20px;
 }
